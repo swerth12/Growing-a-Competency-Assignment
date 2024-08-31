@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Some conflicting change
+=======
+Another conflicting change
+>>>>>>> feature-branch
